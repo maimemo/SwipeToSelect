@@ -32,7 +32,7 @@ Feel free to alter them as you see fit.
 
 7. <b>Bonus #1:</b> Enable search, in a way you think provides good user experience.
 
-8. <b>Bonus #2:</b> Split the list into two lists which can be viewed by swipping horizontally. E.g. List 1 contains words with initials A-M and List 2 N-Z.
+8. <b>Bonus #2:</b> Split the list into two lists which can be viewed by swipping horizontally, e.g. List 1 contains words with initials A-M and List 2 N-Z.
 
 9. <b>Super Bonus #1:</b> Display a text input unit under the word so that a user can type text of any length (e.g. an example sentence) into it. Such text will be displayed in both main & detail view.
 
